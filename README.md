@@ -1,1 +1,0 @@
-Utilized Python, Python libraries, JSON, and NLP, NumPy, SciKit to develop a chat system for users that will help users with their issues and help them customize their products without any human interaction
