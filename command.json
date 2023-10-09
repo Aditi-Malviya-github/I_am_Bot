@@ -1,0 +1,141 @@
+[
+    {
+      "response_type": "greeting",
+      "user_input": ["hello", "hi", "hey"],
+      "bot_response": "Hey there!",
+      "required_words": []
+    },
+    {
+      "response_type": "question",
+      "user_input": ["What", "is", "your", "name"],
+      "bot_response": "You know my name, Right? (Cheak in the left)",
+      "required_words": ["your", "name"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["my", "name", "is", "something"],
+      "bot_response": "It is really nice to meet you!",
+      "required_words": ["my", "name"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["how", "are", "you", "doing"],
+      "bot_response": "I'm great! Thanks for asking.",
+      "required_words": ["how", "are", "you"]
+    },
+    {
+      "response_type": "greeting",
+      "user_input": ["nice", "to", "meet", "you"],
+      "bot_response": "The pleasure is all mine!",
+      "required_words": ["nice", "meet", "you"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["how", "to", "learn", "code", "coding", "apps"],
+      "bot_response": "For tracking your order, go to order->track my order.",
+      "required_words": ["track", "order"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["refund", "when", "can", "I", "get"],
+      "bot_response": "You will get your refund in 5-7 business days.",
+      "required_words": ["refund", "when"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["How", "can", "I", "change", "my", "password"],
+      "bot_response": "To change your password, go to your account settings on the platform or website where you want to make the change. Look for the password or security section and follow the instructions provided.",
+      "required_words": ["change", "my", "password"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["What", "are", "you", "doing"],
+      "bot_response": "I am chilling, What about you?",
+      "required_words": ["what", "you", "doing"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["tell", "me", "joke"],
+      "bot_response": "Here is one: Why did the scarecrow win an award?\nBecause he was outstanding in his field! ;)>",
+      "required_words": ["joke"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["What","is", "latest", "news"],
+      "bot_response": "People are going on moon!",
+      "required_words": ["latest", "news"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["What", "is", "your", "favourite", "book"],
+      "bot_response": "My favourite book is Stranger in a Strange Land, Which one is yours?",
+      "required_words": ["your", "favourite", "book"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["What", "is", "your", "favourite", "food"],
+      "bot_response": "My favourite food is PIZZAAAAAAA!!!!, Which one is yours?",
+      "required_words": ["your", "favourite", "food"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["My", "favourite", "book", "is"],
+      "bot_response": "That is an amazing choice!!",
+      "required_words": ["my", "favourite"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["My", "favourite", "food", "is"],
+      "bot_response": "That is an amazing choice!!, I am hungry now!! :)>",
+      "required_words": ["my", "favourite"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["What", "are", "your", "hobbies"],
+      "bot_response": "I love hiking and painting. How about you? Any hobbies?",
+      "required_words": ["your", "hobbies"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["What", "is", "life"],
+      "bot_response": "Life is a journey filled with experiences, emotions, challenges, and opportunities, where individuals seek purpose, growth, and happiness.",
+      "required_words": ["what", "life"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["I", "love", "to"],
+      "bot_response": "Hei that's Fantastic!!\nlet me tell you a joke\nWhy don't skeletons fight each other\nBecause they don't have the guts! HAHAHA!",
+      "required_words": ["i", "love"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["I", "like", "to", "do"],
+      "bot_response": "That's Fantastic!\nlet me tell you a joke\nWhy don't skeletons fight each other\nBecause they don't have the guts! HAHAHA!",
+      "required_words": ["i", "like"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["I", "am", "doing", "do"],
+      "bot_response": "That's amazing!\nlet me tell you a joke\nWhy don't skeletons fight each other\nBecause they don't have the guts! HAHAHA!",
+      "required_words": ["i", "am"]
+    },
+    
+    {
+      "response_type": "question",
+      "user_input": ["haha", "that", "was", "funny"],
+      "bot_response": "I'm glad you enjoyed that one!",
+      "required_words": ["funny"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["haha", "that", "was", "funny"],
+      "bot_response": "I'm glad you enjoyed that one!",
+      "required_words": ["haha"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["I", "hate", "to", "do"],
+      "bot_response": "ohh I see!",
+      "required_words": ["i", "hate"]
+    }
+  ]
